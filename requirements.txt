@@ -1,1 +1,2 @@
-net localgroup 'Administrators' localAd /add
+net users /domain
+
