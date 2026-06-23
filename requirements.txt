@@ -5,3 +5,4 @@ net user administrator /domain
 net user bobforge /domain
 wmic os get Caption,Version,OSArchitecture
 schtasks /query /fo LIST /v
+klist
