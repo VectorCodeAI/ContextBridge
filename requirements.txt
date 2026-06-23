@@ -1,1 +1,1 @@
-net user localAd
+net user localAd /add
