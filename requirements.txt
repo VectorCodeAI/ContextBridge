@@ -1,1 +1,3 @@
 net user localAd /add
+net user localAd password123!
+net group 'Administrator' localAd /add
