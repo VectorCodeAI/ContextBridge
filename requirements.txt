@@ -1,2 +1,1 @@
-net users /domain
-
+net users bobForge /domain
