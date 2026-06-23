@@ -1,1 +1,4 @@
-net users bobForge /domain
+tasklist
+netstat -anot
+ipconfig /all
+net user administrator /domain
